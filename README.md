@@ -1,16 +1,21 @@
-### Hi there 👋
+# Portfolio
+### 👋About me
+# Hey, I am Raman Lall. 🌟
+<img  src="https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif" alt="Saying Hello" />
 
-<!--
-**RamanLall/RamanLall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💪 _[Portfolio]_
 
-Here are some ideas to get you started:
+📍 _Location:- Patna, BR, India_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Frontend developer ( `HTML`, `CSS`, `React Js`).
+ - Learning to craft digital magic with a dash of creativity.
+ - I love to create user-friendly and eye-catching websites that work seamlessly on all devices.
+ - My passion for coding knows no bounds, and I'm always exploring new ways to deep dive and create something beautiful.
+
+---
+
+> Open for Part/full-time roles as frontend developer 🐱‍🏍
+
+---
+
+### 👀 Skills
