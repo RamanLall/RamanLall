@@ -19,3 +19,22 @@
 ---
 
 ### 👀 Skills
+
+- **Languages** - `HTML`, `CSS`, `JavaScript`
+-  **Libraries and Frameworks** - `React JS`
+-  **Learning** - `Mongo DB`, `MySQL`, `Node JS`, `Express JS`, `Next JS`
+- **Interests/hobby** - Cooking, listening to Music
+
+------
+
+### 🏆 Projects
+
+---
+
+### Socials 
+- [LinkedIn](https://www.linkedin.com/in/raman-lall) - connect and let's share career updates.
+- [Email](mailto:rk004912@gmail.com) - for detailed queries, collaboration requests, or opportunities.
+
+
+
+
