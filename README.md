@@ -32,9 +32,9 @@
 ---
 
 ### Socials 
--  <a herf=https://www.linkedin.com/in/raman-lall /> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" height="50"/> [LinkedIn] - connect and let's share career updates.
-- <a herf=https://rk004912@gmail.com /> <img src="https://cdn.iconscout.com/icon/free/png-256/free-google-mail-new-4762011-3955524.png?f=webp" height="50"/> [E-mail] - for detailed queries, collaboration requests, or opportunities.
-- <a herf =https://www.hackerrank.com/Raman_lall /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height=50/>
+-  [<a herf=https://www.linkedin.com/in/raman-lall /> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" height="50"/>] [LinkedIn] - connect and let's share career updates.
+- [<a herf=https://rk004912@gmail.com /> <img src="https://cdn.iconscout.com/icon/free/png-256/free-google-mail-new-4762011-3955524.png?f=webp" height="50"/> ][E-mail] - for detailed queries, collaboration requests, or opportunities.
+-[ <a herf =https://www.hackerrank.com/Raman_lall /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height=50/>]
 
 
 
