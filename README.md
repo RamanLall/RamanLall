@@ -32,7 +32,7 @@
 ---
 
 ### Socials 
-- <img src="./image/bg.jpg"></img> [LinkedIn](https://www.linkedin.com/in/raman-lall) - connect and let's share career updates.
+- <img src="./image/bg.jpg" /> [LinkedIn](https://www.linkedin.com/in/raman-lall) - connect and let's share career updates.
 - [Email](mailto:rk004912@gmail.com) - for detailed queries, collaboration requests, or opportunities.
 
 
