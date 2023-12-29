@@ -32,8 +32,8 @@
 ---
 
 ### Socials 
--  <a herf=https://www.linkedin.com/in/raman-lall /> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" height="50"/> (https://www.linkedin.com/in/raman-lall) - connect and let's share career updates.
-- [Email](mailto:rk004912@gmail.com) - for detailed queries, collaboration requests, or opportunities.
+-  <a herf=https://www.linkedin.com/in/raman-lall /> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" height="50"/> [LinkedIn] - connect and let's share career updates.
+- <a herf=https://rk004912@gmail.com /> <img src="https://cdn.iconscout.com/icon/free/png-256/free-google-mail-new-4762011-3955524.png?f=webp" height="50"/> - for detailed queries, collaboration requests, or opportunities.
 
 
 
