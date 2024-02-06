@@ -29,6 +29,7 @@
 
 ### 🏆 Projects
 
+Tic Tac Toe - Enjoy a classic gaming experience with this simple and interactive Tic Tac Toe game implemented using HTML, CSS, and JavaScript.
 ---
 
 ### Socials 
