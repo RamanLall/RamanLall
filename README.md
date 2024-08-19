@@ -5,7 +5,7 @@
 
 💪 _[Portfolio]_
 
-📍 _Location:- Patna, BR, India_
+📍 _Location:- Noida, UP, India_
 
  - Frontend developer ( `HTML`, `CSS`, `React Js`).
  - Learning to craft digital magic with a dash of creativity.
